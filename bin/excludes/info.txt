@@ -1,0 +1,2 @@
+Working with the .gitIgnore file - THIS file should be included!
+
