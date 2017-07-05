@@ -1,1 +1,4 @@
 bin/
+
+#include the resources folder
+!resources/includes/*
