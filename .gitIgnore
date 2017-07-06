@@ -1,4 +1,7 @@
-[Bb]in/
+![Bb]in/
+[Bb]in/*
+![Bb]in/release*
+![Bb]in/release*/**
 
 #include the resources folder
 !resources/includes/*
